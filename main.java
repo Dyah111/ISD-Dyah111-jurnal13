@@ -1,3 +1,8 @@
+/*c. Kelas Main:
+- Menyisipkan data yang diberikan ke dalam BST.
+- Melakukan pencarian karakter 'K' dan 'A'.
+- Menampilkan hasil traversal inorder dari BST. */
+
 public class main {
     public static void main(String[] args) {
         bst<Character> search = new bst();

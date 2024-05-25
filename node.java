@@ -1,3 +1,7 @@
+/*a. Kelas BSTNode:
+      - Mewakili setiap node dalam BST dengan atribut data, left, dan right.  
+    */
+
 public class node <E extends Comparable<E>> {
     private node<E> leftNode;
     private E data;

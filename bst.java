@@ -1,3 +1,9 @@
+/*b. Kelas BST:
+      - Metode insert: Menyisipkan node baru ke BST dengan menjaga properti BST.
+      - Metode search: Mencari node dalam BST dengan nilai tertentu.
+      - Metode inorder: Melakukan traversal inorder untuk menampilkan node dalam urutan yang benar
+      */
+
 public class bst<E extends Comparable<E>> {
     private node<E> root;
     
